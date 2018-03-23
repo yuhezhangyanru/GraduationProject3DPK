@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: 7a54ae88bef9ad84a87f7c18b517ac1b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone_DragonKalecgos_1
+    100002: Bone_DragonKalecgos_10
+    100004: Bone_DragonKalecgos_100
+    100006: Bone_DragonKalecgos_101
+    100008: Bone_DragonKalecgos_102
+    100010: Bone_DragonKalecgos_103
+    100012: Bone_DragonKalecgos_104
+    100014: Bone_DragonKalecgos_105
+    100016: Bone_DragonKalecgos_106
+    100018: Bone_DragonKalecgos_107
+    100020: Bone_DragonKalecgos_108
+    100022: Bone_DragonKalecgos_109
+    100024: Bone_DragonKalecgos_11
+    100026: Bone_DragonKalecgos_110
+    100028: Bone_DragonKalecgos_111
+    100030: Bone_DragonKalecgos_112
+    100032: Bone_DragonKalecgos_113
+    100034: Bone_DragonKalecgos_114
+    100036: Bone_DragonKalecgos_115
+    100038: Bone_DragonKalecgos_116
+    100040: Bone_DragonKalecgos_117
+    100042: Bone_DragonKalecgos_118
+    100044: Bone_DragonKalecgos_119
+    100046: Bone_DragonKalecgos_12
+    100048: Bone_DragonKalecgos_120
+    100050: Bone_DragonKalecgos_121
+    100052: Bone_DragonKalecgos_122
+    100054: Bone_DragonKalecgos_123
+    100056: Bone_DragonKalecgos_124
+    100058: Bone_DragonKalecgos_125
+    100060: Bone_DragonKalecgos_126
+    100062: Bone_DragonKalecgos_127
+    100064: Bone_DragonKalecgos_128
+    100066: Bone_DragonKalecgos_129
+    100068: Bone_DragonKalecgos_13
+    100070: Bone_DragonKalecgos_130
+    100072: Bone_DragonKalecgos_131
+    100074: Bone_DragonKalecgos_132
+    100076: Bone_DragonKalecgos_133
+    100078: Bone_DragonKalecgos_134
+    100080: Bone_DragonKalecgos_135
+    100082: Bone_DragonKalecgos_136
+    100084: Bone_DragonKalecgos_14
+    100086: Bone_DragonKalecgos_15
+    100088: Bone_DragonKalecgos_16
+    100090: Bone_DragonKalecgos_17
+    100092: Bone_DragonKalecgos_18
+    100094: Bone_DragonKalecgos_19
+    100096: Bone_DragonKalecgos_2
+    100098: Bone_DragonKalecgos_20
+    100100: Bone_DragonKalecgos_21
+    100102: Bone_DragonKalecgos_22
+    100104: Bone_DragonKalecgos_23
+    100106: Bone_DragonKalecgos_24
+    100108: Bone_DragonKalecgos_25
+    100110: Bone_DragonKalecgos_26
+    100112: Bone_DragonKalecgos_27
+    100114: Bone_DragonKalecgos_28
+    100116: Bone_DragonKalecgos_29
+    100118: Bone_DragonKalecgos_3
+    100120: Bone_DragonKalecgos_30
+    100122: Bone_DragonKalecgos_31
+    100124: Bone_DragonKalecgos_32
+    100126: Bone_DragonKalecgos_33
+    100128: Bone_DragonKalecgos_34
+    100130: Bone_DragonKalecgos_35
+    100132: Bone_DragonKalecgos_36
+    100134: Bone_DragonKalecgos_37
+    100136: Bone_DragonKalecgos_38
+    100138: Bone_DragonKalecgos_39
+    100140: Bone_DragonKalecgos_4
+    100142: Bone_DragonKalecgos_40
+    100144: Bone_DragonKalecgos_41
+    100146: Bone_DragonKalecgos_42
+    100148: Bone_DragonKalecgos_43
+    100150: Bone_DragonKalecgos_44
+    100152: Bone_DragonKalecgos_45
+    100154: Bone_DragonKalecgos_46
+    100156: Bone_DragonKalecgos_47
+    100158: Bone_DragonKalecgos_48
+    100160: Bone_DragonKalecgos_49
+    100162: Bone_DragonKalecgos_5
+    100164: Bone_DragonKalecgos_50
+    100166: Bone_DragonKalecgos_51
+    100168: Bone_DragonKalecgos_52
+    100170: Bone_DragonKalecgos_53
+    100172: Bone_DragonKalecgos_54
+    100174: Bone_DragonKalecgos_55
+    100176: Bone_DragonKalecgos_56
+    100178: Bone_DragonKalecgos_57
+    100180: Bone_DragonKalecgos_58
+    100182: Bone_DragonKalecgos_59
+    100184: Bone_DragonKalecgos_6
+    100186: Bone_DragonKalecgos_60
+    100188: Bone_DragonKalecgos_61
+    100190: Bone_DragonKalecgos_62
+    100192: Bone_DragonKalecgos_63
+    100194: Bone_DragonKalecgos_64
+    100196: Bone_DragonKalecgos_65
+    100198: Bone_DragonKalecgos_66
+    100200: Bone_DragonKalecgos_67
+    100202: Bone_DragonKalecgos_68
+    100204: Bone_DragonKalecgos_69
+    100206: Bone_DragonKalecgos_7
+    100208: Bone_DragonKalecgos_70
+    100210: Bone_DragonKalecgos_71
+    100212: Bone_DragonKalecgos_72
+    100214: Bone_DragonKalecgos_73
+    100216: Bone_DragonKalecgos_74
+    100218: Bone_DragonKalecgos_75
+    100220: Bone_DragonKalecgos_76
+    100222: Bone_DragonKalecgos_77
+    100224: Bone_DragonKalecgos_78
+    100226: Bone_DragonKalecgos_79
+    100228: Bone_DragonKalecgos_8
+    100230: Bone_DragonKalecgos_80
+    100232: Bone_DragonKalecgos_81
+    100234: Bone_DragonKalecgos_82
+    100236: Bone_DragonKalecgos_83
+    100238: Bone_DragonKalecgos_84
+    100240: Bone_DragonKalecgos_85
+    100242: Bone_DragonKalecgos_86
+    100244: Bone_DragonKalecgos_87
+    100246: Bone_DragonKalecgos_88
+    100248: Bone_DragonKalecgos_89
+    100250: Bone_DragonKalecgos_9
+    100252: Bone_DragonKalecgos_90
+    100254: Bone_DragonKalecgos_91
+    100256: Bone_DragonKalecgos_92
+    100258: Bone_DragonKalecgos_93
+    100260: Bone_DragonKalecgos_94
+    100262: Bone_DragonKalecgos_95
+    100264: Bone_DragonKalecgos_96
+    100266: Bone_DragonKalecgos_97
+    100268: Bone_DragonKalecgos_98
+    100270: Bone_DragonKalecgos_99
+    100272: Mesh_DragonKalecgos
+    100274: //RootNode
+    400000: Bone_DragonKalecgos_1
+    400002: Bone_DragonKalecgos_10
+    400004: Bone_DragonKalecgos_100
+    400006: Bone_DragonKalecgos_101
+    400008: Bone_DragonKalecgos_102
+    400010: Bone_DragonKalecgos_103
+    400012: Bone_DragonKalecgos_104
+    400014: Bone_DragonKalecgos_105
+    400016: Bone_DragonKalecgos_106
+    400018: Bone_DragonKalecgos_107
+    400020: Bone_DragonKalecgos_108
+    400022: Bone_DragonKalecgos_109
+    400024: Bone_DragonKalecgos_11
+    400026: Bone_DragonKalecgos_110
+    400028: Bone_DragonKalecgos_111
+    400030: Bone_DragonKalecgos_112
+    400032: Bone_DragonKalecgos_113
+    400034: Bone_DragonKalecgos_114
+    400036: Bone_DragonKalecgos_115
+    400038: Bone_DragonKalecgos_116
+    400040: Bone_DragonKalecgos_117
+    400042: Bone_DragonKalecgos_118
+    400044: Bone_DragonKalecgos_119
+    400046: Bone_DragonKalecgos_12
+    400048: Bone_DragonKalecgos_120
+    400050: Bone_DragonKalecgos_121
+    400052: Bone_DragonKalecgos_122
+    400054: Bone_DragonKalecgos_123
+    400056: Bone_DragonKalecgos_124
+    400058: Bone_DragonKalecgos_125
+    400060: Bone_DragonKalecgos_126
+    400062: Bone_DragonKalecgos_127
+    400064: Bone_DragonKalecgos_128
+    400066: Bone_DragonKalecgos_129
+    400068: Bone_DragonKalecgos_13
+    400070: Bone_DragonKalecgos_130
+    400072: Bone_DragonKalecgos_131
+    400074: Bone_DragonKalecgos_132
+    400076: Bone_DragonKalecgos_133
+    400078: Bone_DragonKalecgos_134
+    400080: Bone_DragonKalecgos_135
+    400082: Bone_DragonKalecgos_136
+    400084: Bone_DragonKalecgos_14
+    400086: Bone_DragonKalecgos_15
+    400088: Bone_DragonKalecgos_16
+    400090: Bone_DragonKalecgos_17
+    400092: Bone_DragonKalecgos_18
+    400094: Bone_DragonKalecgos_19
+    400096: Bone_DragonKalecgos_2
+    400098: Bone_DragonKalecgos_20
+    400100: Bone_DragonKalecgos_21
+    400102: Bone_DragonKalecgos_22
+    400104: Bone_DragonKalecgos_23
+    400106: Bone_DragonKalecgos_24
+    400108: Bone_DragonKalecgos_25
+    400110: Bone_DragonKalecgos_26
+    400112: Bone_DragonKalecgos_27
+    400114: Bone_DragonKalecgos_28
+    400116: Bone_DragonKalecgos_29
+    400118: Bone_DragonKalecgos_3
+    400120: Bone_DragonKalecgos_30
+    400122: Bone_DragonKalecgos_31
+    400124: Bone_DragonKalecgos_32
+    400126: Bone_DragonKalecgos_33
+    400128: Bone_DragonKalecgos_34
+    400130: Bone_DragonKalecgos_35
+    400132: Bone_DragonKalecgos_36
+    400134: Bone_DragonKalecgos_37
+    400136: Bone_DragonKalecgos_38
+    400138: Bone_DragonKalecgos_39
+    400140: Bone_DragonKalecgos_4
+    400142: Bone_DragonKalecgos_40
+    400144: Bone_DragonKalecgos_41
+    400146: Bone_DragonKalecgos_42
+    400148: Bone_DragonKalecgos_43
+    400150: Bone_DragonKalecgos_44
+    400152: Bone_DragonKalecgos_45
+    400154: Bone_DragonKalecgos_46
+    400156: Bone_DragonKalecgos_47
+    400158: Bone_DragonKalecgos_48
+    400160: Bone_DragonKalecgos_49
+    400162: Bone_DragonKalecgos_5
+    400164: Bone_DragonKalecgos_50
+    400166: Bone_DragonKalecgos_51
+    400168: Bone_DragonKalecgos_52
+    400170: Bone_DragonKalecgos_53
+    400172: Bone_DragonKalecgos_54
+    400174: Bone_DragonKalecgos_55
+    400176: Bone_DragonKalecgos_56
+    400178: Bone_DragonKalecgos_57
+    400180: Bone_DragonKalecgos_58
+    400182: Bone_DragonKalecgos_59
+    400184: Bone_DragonKalecgos_6
+    400186: Bone_DragonKalecgos_60
+    400188: Bone_DragonKalecgos_61
+    400190: Bone_DragonKalecgos_62
+    400192: Bone_DragonKalecgos_63
+    400194: Bone_DragonKalecgos_64
+    400196: Bone_DragonKalecgos_65
+    400198: Bone_DragonKalecgos_66
+    400200: Bone_DragonKalecgos_67
+    400202: Bone_DragonKalecgos_68
+    400204: Bone_DragonKalecgos_69
+    400206: Bone_DragonKalecgos_7
+    400208: Bone_DragonKalecgos_70
+    400210: Bone_DragonKalecgos_71
+    400212: Bone_DragonKalecgos_72
+    400214: Bone_DragonKalecgos_73
+    400216: Bone_DragonKalecgos_74
+    400218: Bone_DragonKalecgos_75
+    400220: Bone_DragonKalecgos_76
+    400222: Bone_DragonKalecgos_77
+    400224: Bone_DragonKalecgos_78
+    400226: Bone_DragonKalecgos_79
+    400228: Bone_DragonKalecgos_8
+    400230: Bone_DragonKalecgos_80
+    400232: Bone_DragonKalecgos_81
+    400234: Bone_DragonKalecgos_82
+    400236: Bone_DragonKalecgos_83
+    400238: Bone_DragonKalecgos_84
+    400240: Bone_DragonKalecgos_85
+    400242: Bone_DragonKalecgos_86
+    400244: Bone_DragonKalecgos_87
+    400246: Bone_DragonKalecgos_88
+    400248: Bone_DragonKalecgos_89
+    400250: Bone_DragonKalecgos_9
+    400252: Bone_DragonKalecgos_90
+    400254: Bone_DragonKalecgos_91
+    400256: Bone_DragonKalecgos_92
+    400258: Bone_DragonKalecgos_93
+    400260: Bone_DragonKalecgos_94
+    400262: Bone_DragonKalecgos_95
+    400264: Bone_DragonKalecgos_96
+    400266: Bone_DragonKalecgos_97
+    400268: Bone_DragonKalecgos_98
+    400270: Bone_DragonKalecgos_99
+    400272: Mesh_DragonKalecgos
+    400274: //RootNode
+    4300000: Mesh_DragonKalecgos
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mesh_DragonKalecgos
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Bone_DragonKalecgos_2
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_16
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_6
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_25
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_24
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_42
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_39
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_17
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_23
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_27
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_46
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_26
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_28
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_34
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_36
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_45
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_63
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_55
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_83
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_62
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_81
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_56
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_77
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_91
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_76
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_DragonKalecgos_90
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mGragonDis(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_2
+      position: {x: -.00465862639, y: .0780874789, z: 0}
+      rotation: {x: -.337563485, y: -.138464108, z: -.514259279, w: .776154637}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_3
+      position: {x: .0133029968, y: 0, z: -.000514917367}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_5
+      position: {x: .0205435175, y: 0, z: -.0128273368}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_6
+      position: {x: .000335617049, y: .018711172, z: -.00888567884}
+      rotation: {x: -.132408485, y: -.17064409, z: -.0852314979, w: .972668588}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_21
+      position: {x: -.0034326124, y: .0011370182, z: -.0191052519}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_24
+      position: {x: .0169377085, y: .00217041839, z: -.00929998886}
+      rotation: {x: .0764576197, y: -.249305025, z: .0358564407, w: .964736044}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_30
+      position: {x: -.0034327507, y: .00113701343, z: -.0191052277}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_37
+      position: {x: -.00316551444, y: .00674257241, z: -.0049556205}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_48
+      position: {x: -.00567496289, y: .00200967304, z: -.00281501887}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_38
+      position: {x: -.00654360745, y: -1.67369842e-06, z: -.00704607833}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_39
+      position: {x: -.00489090662, y: -.00736209983, z: -.00642822031}
+      rotation: {x: -.315504164, y: .301174164, z: .854027092, w: .283529729}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_49
+      position: {x: -.00426802645, y: -.000625944114, z: -.00317777391}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_7
+      position: {x: .0317062363, y: 0, z: -.0165691283}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_8
+      position: {x: .0431145467, y: 0, z: -.0214021113}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_9
+      position: {x: .0548273399, y: 0, z: -.0278941486}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_10
+      position: {x: .0669401139, y: 0, z: -.0333100185}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_11
+      position: {x: .0796140432, y: 0, z: -.0355121568}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_12
+      position: {x: .0924206898, y: 0, z: -.0362070985}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_13
+      position: {x: .10473568, y: 0, z: -.03600429}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_14
+      position: {x: .115845256, y: 0, z: -.0358213373}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_117
+      position: {x: .0209385101, y: 0, z: -.00361810904}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_15
+      position: {x: .13242428, y: -.000610058312, z: -.0374158733}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_16
+      position: {x: .000335617049, y: -.0187111106, z: -.00888567884}
+      rotation: {x: -.106400967, y: -.137512922, z: -.0367733017, w: .984081686}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_22
+      position: {x: -.00343272672, y: -.00113700621, z: -.0191052333}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_25
+      position: {x: .0169377234, y: -.00217040535, z: -.0092999693}
+      rotation: {x: .0373846851, y: -.221545339, z: .062298499, w: .972439766}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_31
+      position: {x: -.00343260751, y: -.00113700866, z: -.0191052575}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_40
+      position: {x: -.0048898817, y: .00736209983, z: -.00642975327}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_50
+      position: {x: -.00426739687, y: .000626316061, z: -.00317854644}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_41
+      position: {x: -.00654241303, y: -1.67369842e-06, z: -.00704808347}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_42
+      position: {x: -.00316491351, y: -.00674250117, z: -.00495667662}
+      rotation: {x: -.310977787, y: .358263403, z: .730955422, w: .490555257}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_51
+      position: {x: -.0056737233, y: -.00201221928, z: -.00281567569}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_115
+      position: {x: .0223668478, y: 0, z: -.0301094316}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_4
+      position: {x: .000507564517, y: 0, z: .00289189327}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_17
+      position: {x: -.0124438331, y: 0, z: .0011836529}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_23
+      position: {x: -.0114811892, y: 0, z: .0049429033}
+      rotation: {x: -.417579681, y: -.190858379, z: -.382779658, w: .801673353}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_26
+      position: {x: -.0136099383, y: 5.00328881e-08, z: .00276963226}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_33
+      position: {x: .000690722431, y: .0160855614, z: -.0108534526}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_44
+      position: {x: .0113317585, y: .00799723528, z: -.0256579481}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_54
+      position: {x: -.00263960357, y: .000613770448, z: -.0290404856}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_72
+      position: {x: -.000153791902, y: .00574304583, z: -.00429930864}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_89
+      position: {x: -.00754863257, y: .00228004926, z: -.00563116604}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_73
+      position: {x: -.00556687126, y: 7.95888918e-05, z: -.00637691701}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_135
+      position: {x: -.0089583667, y: .000385131832, z: .000320764782}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_74
+      position: {x: .000668956607, y: -.00613604998, z: -.00448591169}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_34
+      position: {x: .000690579414, y: -.0160855334, z: -.010853529}
+      rotation: {x: -.183499515, y: .127876833, z: -.120904289, w: .967138886}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_45
+      position: {x: .0113320993, y: -.00799747463, z: -.0256577134}
+      rotation: {x: -.144643068, y: -.210344419, z: .0179960616, w: .966700494}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_55
+      position: {x: -.00263984082, y: -.000613727549, z: -.029040467}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_75
+      position: {x: .000668952474, y: .00613604998, z: -.00448607141}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_90
+      position: {x: -.00372469891, y: .00469705323, z: -.00479434943}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_76
+      position: {x: -.00556687126, y: -7.95936576e-05, z: -.00637706602}
+      rotation: {x: .0325626843, y: -.666537941, z: .0352310054, w: .743925929}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_136
+      position: {x: -.0092322249, y: -.000434236514, z: .000317718979}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_77
+      position: {x: -.000153787129, y: -.00574304583, z: -.00429945532}
+      rotation: {x: .0971565545, y: -.360087454, z: .0156587288, w: .927713573}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_91
+      position: {x: -.00754832476, y: -.00228150352, z: -.00563099096}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_27
+      position: {x: .000604338653, y: -.0138888909, z: .00608765567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_35
+      position: {x: .0272282157, y: -.0226219408, z: .021132173}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_46
+      position: {x: -.0334371142, y: -.0392117463, z: .0372011736}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_56
+      position: {x: .0155355977, y: -.0154485125, z: .0137546156}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_78
+      position: {x: .0482915044, y: -.0271259304, z: .0271259584}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_92
+      position: {x: .0591793992, y: -.0197303575, z: .0174142458}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_57
+      position: {x: .0213761739, y: -.00488973595, z: .00369081483}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_79
+      position: {x: .0378349274, y: -.0149108693, z: .0169141386}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_93
+      position: {x: .0447703339, y: -.00682809809, z: .00400438299}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_58
+      position: {x: .0221916474, y: .000599698978, z: -.000599670399}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_80
+      position: {x: .031670738, y: .000757503498, z: .000707187632}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_94
+      position: {x: .0291667636, y: .00505890837, z: -.00370969763}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_59
+      position: {x: .0192911755, y: -.010069523, z: .00837129541}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_81
+      position: {x: .0413384326, y: -.0206460375, z: .0206460953}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_95
+      position: {x: .0532166623, y: -.011863918, z: .0118639087}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_60
+      position: {x: .0565669015, y: -.00945768319, z: .0102449609}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_82
+      position: {x: .0378599316, y: .000844745606, z: -.000844726572}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_61
+      position: {x: .0296502728, y: .0103993509, z: -.0110502625}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_62
+      position: {x: -.0010774493, y: -.0144242281, z: .0130473329}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_28
+      position: {x: .000604337431, y: .0138888853, z: .00608765567}
+      rotation: {x: .0191457905, y: -.164071888, z: .150718763, w: .974678278}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_36
+      position: {x: .0272287242, y: .0226215925, z: .0211318675}
+      rotation: {x: .0173702128, y: .201767042, z: -.210333601, w: .956424713}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_47
+      position: {x: -.0334362872, y: .0392121933, z: .0372014232}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_63
+      position: {x: .015534237, y: .0154484939, z: .0137546156}
+      rotation: {x: -.0109745376, y: -.343479514, z: .363016844, w: .866094768}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_83
+      position: {x: .048291415, y: .0271259304, z: .0271259397}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_96
+      position: {x: .0591793805, y: .0197303575, z: .0174143221}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_64
+      position: {x: .0213761665, y: .00488981232, z: .00369077665}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_84
+      position: {x: .0378349051, y: .0149108497, z: .0169141758}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_97
+      position: {x: .0447703078, y: .00682828901, z: .00400424935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_65
+      position: {x: .0221916437, y: -.000599660852, z: -.000599670399}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_85
+      position: {x: .0316707417, y: -.000757455826, z: .000707187632}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_98
+      position: {x: .0291667636, y: -.00505887019, z: -.00370971672}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_66
+      position: {x: .0192911625, y: .0100694848, z: .00837135315}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_86
+      position: {x: .0413384065, y: .0206460953, z: .0206460953}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_99
+      position: {x: .0532166474, y: .011863918, z: .0118639469}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_67
+      position: {x: .0565668866, y: .0094578173, z: .0102449032}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_87
+      position: {x: .0378599353, y: -.00084470748, z: -.00084470748}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_68
+      position: {x: .0296502803, y: -.0110502718, z: -.0103993034}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_88
+      position: {x: .0181292668, y: -.00296631805, z: -.00220092759}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_69
+      position: {x: -.00107746839, y: .0144242663, z: .0130472947}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_29
+      position: {x: -.0136099383, y: 5.00328881e-08, z: .00276963226}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_32
+      position: {x: -.0138169015, y: 6.45273488e-08, z: -.00141229632}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_43
+      position: {x: -.0127629181, y: 3.76023834e-08, z: .0083975317}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_52
+      position: {x: -.0102434438, y: 1.97583709e-08, z: .0113350106}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_70
+      position: {x: -.0108680818, y: -3.53626084e-09, z: -.0023863602}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_71
+      position: {x: -.0108357333, y: -1.83394144e-09, z: .00173570635}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_124
+      position: {x: -.0137004564, y: -1.31026752e-06, z: -.00378921023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_125
+      position: {x: -.0206291676, y: -1.71921002e-07, z: -.00564975711}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_127
+      position: {x: -.00314566609, y: -1.71921002e-07, z: .0125044249}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_128
+      position: {x: -.021235913, y: -1.71921002e-07, z: .0146727562}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_129
+      position: {x: -.0147818653, y: -1.71921002e-07, z: .0204285234}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_130
+      position: {x: -.00951777399, y: -1.71921002e-07, z: .0249968898}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_131
+      position: {x: -.021235913, y: -.00501104956, z: .00505336747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_132
+      position: {x: -.021235913, y: .00493151788, z: .00505336747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_133
+      position: {x: -.0145212263, y: -1.31009642e-06, z: -.00678495876}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_134
+      position: {x: -0, y: -7.65430705e-11, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_53
+      position: {x: -.0157980248, y: 1.02719639e-07, z: -.0143759344}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_126
+      position: {x: .00495625474, y: -2.54882252e-07, z: .00188502308}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_122
+      position: {x: -.0165969562, y: 1.18141287e-07, z: -.0196125507}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_123
+      position: {x: .000626192079, y: -2.32701524e-07, z: -.000567388546}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_118
+      position: {x: .00615988113, y: 0, z: -.00261542317}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_119
+      position: {x: .00615988113, y: 0, z: -.00261542317}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_120
+      position: {x: .00615988113, y: 0, z: -.00261542317}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_121
+      position: {x: .00615988113, y: 0, z: -.00261542317}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_18
+      position: {x: -.00568390358, y: 0, z: -.026861174}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_19
+      position: {x: -.00910563488, y: .011111103, z: -.0126863383}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_20
+      position: {x: -.00910563394, y: -.0111111198, z: -.0126863187}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_116
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_100
+      position: {x: -.0104823383, y: .133387804, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_101
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_102
+      position: {x: -.0345965587, y: .0979025438, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_103
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_104
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_105
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_106
+      position: {x: -.0464656278, y: 0, z: -.00877237599}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_107
+      position: {x: -.00382175413, y: 0, z: -.0245235674}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_108
+      position: {x: -.0504050925, y: 0, z: .00907967426}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_109
+      position: {x: -.00520532252, y: 0, z: .0245532915}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_110
+      position: {x: -.0435501896, y: 0, z: -.0087769106}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_111
+      position: {x: -.00306689972, y: 0, z: -.02457086}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_112
+      position: {x: -.0481754877, y: 0, z: .00900380965}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_113
+      position: {x: -.000739927869, y: 0, z: .0245069787}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone_DragonKalecgos_114
+      position: {x: -.0916666687, y: .0861111134, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mesh_DragonKalecgos
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: .199999973, y: .199999973, z: .199999988}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

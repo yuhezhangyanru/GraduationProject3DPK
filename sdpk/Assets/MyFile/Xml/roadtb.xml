@@ -1,0 +1,471 @@
+<?xml version="1.0" standalone="yes"?>  
+<RECORDS>
+<RECORD>
+      <road_id>0</road_id>
+      <road_name>Road1</road_name>
+      <gold_pos_x>56</gold_pos_x>
+      <gold_pos_y>2.89</gold_pos_y>
+      <gold_pos_z>6</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>1</box>
+      <is_box>0</is_box>
+      <box_pos_x>60.9</box_pos_x>
+      <box_pos_y>3.19</box_pos_y>
+      <box_pos_z>16.7</box_pos_z>
+      <mon_pos_x>57.6</mon_pos_x>
+      <mon_pos_y>2.42</mon_pos_y>
+      <mon_pos_z>12.4</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>1</road_id>
+      <road_name>Road2</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>2</road_id>
+      <road_name>Road3</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>69.3</mon_pos_x>
+      <mon_pos_y>2.42</mon_pos_y>
+      <mon_pos_z>24.3</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>3</road_id>
+      <road_name>Road4</road_name>
+      <gold_pos_x>68.6</gold_pos_x>
+      <gold_pos_y>2.89</gold_pos_y>
+      <gold_pos_z>37</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>1</box>
+      <is_box>0</is_box>
+      <box_pos_x>69.9</box_pos_x>
+      <box_pos_y>3.19</box_pos_y>
+      <box_pos_z>41.5</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>4</road_id>
+      <road_name>Road5</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>52</mon_pos_x>
+      <mon_pos_y>2.42</mon_pos_y>
+      <mon_pos_z>43.9</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>5</road_id>
+      <road_name>Road6</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>1</box>
+      <is_box>0</is_box>
+      <box_pos_x>44.5</box_pos_x>
+      <box_pos_y>3.19</box_pos_y>
+      <box_pos_z>37.8</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>6</road_id>
+      <road_name>Road7</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>7</road_id>
+      <road_name>Road8</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>8</road_id>
+      <road_name>Road9</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>9</road_id>
+      <road_name>Road10</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>10</road_id>
+      <road_name>Road11</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>11</mon_pos_x>
+      <mon_pos_y>2.42</mon_pos_y>
+      <mon_pos_z>16.5</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>11</road_id>
+      <road_name>Road12</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>1</box>
+      <is_box>0</is_box>
+      <box_pos_x>11.5</box_pos_x>
+      <box_pos_y>3.19</box_pos_y>
+      <box_pos_z>27</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>12</road_id>
+      <road_name>Road13</road_name>
+      <gold_pos_x>10.8</gold_pos_x>
+      <gold_pos_y>2.89</gold_pos_y>
+      <gold_pos_z>50.3</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>11.5</mon_pos_x>
+      <mon_pos_y>2.42</mon_pos_y>
+      <mon_pos_z>25.5</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>13</road_id>
+      <road_name>Road14</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>20</mon_pos_x>
+      <mon_pos_y>2.42</mon_pos_y>
+      <mon_pos_z>56.6</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>14</road_id>
+      <road_name>Road15</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>1</box>
+      <is_box>0</is_box>
+      <box_pos_x>18.4</box_pos_x>
+      <box_pos_y>3.19</box_pos_y>
+      <box_pos_z>56.6</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>15</road_id>
+      <road_name>Road16</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>16</road_id>
+      <road_name>Road17</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>17</road_id>
+      <road_name>Road18</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>18</road_id>
+      <road_name>Road19</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>1</box>
+      <is_box>0</is_box>
+      <box_pos_x>86.5</box_pos_x>
+      <box_pos_y>3.19</box_pos_y>
+      <box_pos_z>56.8</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>19</road_id>
+      <road_name>Road20</road_name>
+      <gold_pos_x>93.4</gold_pos_x>
+      <gold_pos_y>2.89</gold_pos_y>
+      <gold_pos_z>66.5</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>92.3</mon_pos_x>
+      <mon_pos_y>2.42</mon_pos_y>
+      <mon_pos_z>68.4</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>20</road_id>
+      <road_name>Road21</road_name>
+      <gold_pos_x>93.4</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>76.4</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>21</road_id>
+      <road_name>Road22</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>80.5</mon_pos_x>
+      <mon_pos_y>2.42</mon_pos_y>
+      <mon_pos_z>83</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>22</road_id>
+      <road_name>Road23</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>70.5</mon_pos_x>
+      <mon_pos_y>2.42</mon_pos_y>
+      <mon_pos_z>82.5</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>23</road_id>
+      <road_name>Road24</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>1</box>
+      <is_box>0</is_box>
+      <box_pos_x>60</box_pos_x>
+      <box_pos_y>3.19</box_pos_y>
+      <box_pos_z>82</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>24</road_id>
+      <road_name>Road25</road_name>
+      <gold_pos_x>0</gold_pos_x>
+      <gold_pos_y>0</gold_pos_y>
+      <gold_pos_z>0</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>1</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>52</mon_pos_x>
+      <mon_pos_y>2.42</mon_pos_y>
+      <mon_pos_z>90</mon_pos_z>
+</RECORD>
+<RECORD>
+      <road_id>25</road_id>
+      <road_name>Road26</road_name>
+      <gold_pos_x>52.7</gold_pos_x>
+      <gold_pos_y>2.89</gold_pos_y>
+      <gold_pos_z>97</gold_pos_z>
+      <is_gold>0</is_gold>
+      <monster>0</monster>
+      <is_monster>0</is_monster>
+      <box>0</box>
+      <is_box>0</is_box>
+      <box_pos_x>0</box_pos_x>
+      <box_pos_y>0</box_pos_y>
+      <box_pos_z>0</box_pos_z>
+      <mon_pos_x>0</mon_pos_x>
+      <mon_pos_y>0</mon_pos_y>
+      <mon_pos_z>0</mon_pos_z>
+</RECORD>
+</RECORDS>
