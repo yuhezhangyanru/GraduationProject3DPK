@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="myfiles.scripts.ui.BaseView">
+    <Position X="3.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwACAAQIAAAAAAAACAAEAECEAAAIAAAAEACAAAAAEA=</HashCode>
+      <FileName>Assets\MyFile\Scripts\UI\BaseView\BaseView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AwardView" Collapsed="true">
+    <Position X="6.5" Y="8.75" Width="1.5" />
+    <InheritanceLine Type="myfiles.scripts.ui.BaseView" FixedToPoint="true">
+      <Path>
+        <Point X="5.25" Y="9.062" />
+        <Point X="6.5" Y="9.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAAAggAAAAAQAAAAEAAYAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\MyFile\Scripts\UI\AwardView\AwardView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myfiles.scripts.ui.helpview.HelpView" Collapsed="true">
+    <Position X="6.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAEA=</HashCode>
+      <FileName>Assets\MyFile\Scripts\UI\HelpView\HelpView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myfiles.scripts.ui.mainview.MainView" Collapsed="true">
+    <Position X="6.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QI7FlAAEELCAARQAICABIGQCAASAJAAAEgBAAAAAAHA=</HashCode>
+      <FileName>Assets\MyFile\Scripts\UI\MainView\MainView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myfiles.scripts.ui.recordview.RecordView" Collapsed="true">
+    <Position X="6.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAABAAACAAAAAEAAAAAAAAAAAIIABAAABAAAAAAEA=</HashCode>
+      <FileName>Assets\MyFile\Scripts\UI\RecordView\RecordView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myfiles.scripts.ui.settingview.SettingView" Collapsed="true">
+    <Position X="6.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFgAABAAACIAAACAAAAAEAAAAABoIAFAAAAASAAAAAA=</HashCode>
+      <FileName>Assets\MyFile\Scripts\UI\SettingView\SettingView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myfiles.scripts.ui.startview.StartView" Collapsed="true">
+    <Position X="6.5" Y="12.5" Width="1.5" />
+    <InheritanceLine Type="myfiles.scripts.ui.BaseView" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.25" Y="12.75" />
+        <Point X="6.5" Y="12.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AA0IAAABACAAABAAAAAgAAAAAAAAIABAiAAQAAAAAAA=</HashCode>
+      <FileName>Assets\MyFile\Scripts\UI\StartView\StartView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
